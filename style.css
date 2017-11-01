@@ -64,13 +64,13 @@ img {
 	border:1px solid #991111;
 	}
 
-.col-12 {
+.conrainer {
 display:flex;
 border:1px orange;
 }
 
 .intro {
-    font-size:0.7em;
+    font-size:1.25em;
     border:1px solid red; 
     margin: 10px; 
     width:80%;
