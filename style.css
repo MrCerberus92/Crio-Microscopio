@@ -1,0 +1,85 @@
+
+
+body {
+	background-color:#cccccc;
+    font-family:serf;
+ }
+
+h1 {
+	text-align:left;
+	margin-left:80px;
+	font-family:Tahoma;
+}
+
+.big-i {
+    font-size:36px;
+    
+    }
+
+.big-n {
+    font-size:36px;
+}
+
+.red-nobel {
+	color:red;
+	font-size:30px;
+}
+
+
+
+.red-c {
+    font-size:36px;
+    color:red;
+}
+
+
+img {
+	height:310px;
+	width:380px; 
+	border: 4px solid #105059;
+	border-radius:50%;
+	margin:auto;
+	}
+	
+.circle {
+	background-color:#darkgrey;
+	border-radius:44%;
+	margin:auto;
+}
+
+
+article {
+	margin:30px;
+	pedding:30px;
+	border:1px solid #99111;
+
+display:flex;
+border:1px orange;
+}
+
+.intro {
+    font-size:0.7em;
+    border:1px solid red; 
+    margin: 10px; 
+    width:80%;
+    }
+    
+.intro,p    {
+    margin:5px; 
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+/* style credit logo */
+
+.barra.sinistra {
+	background-color:€992233;
+}
+
