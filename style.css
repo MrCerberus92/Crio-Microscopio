@@ -28,7 +28,12 @@ h1 {
 	font-family:serif;
 }
 
-
+.labor-img {
+	background-image: url(http://www.mitomorrow.it/wp-content/uploads/2017/10/aboratorio.jpg);
+	background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
 
 .red-c {
 	font-family:serif;
