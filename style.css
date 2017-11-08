@@ -12,22 +12,26 @@ h1 {
 }
 
 .big-i {
+    font-family:serif;
     font-size:36px;
     
     }
 
 .big-n {
+	font-family:serif;
     font-size:36px;
 }
 
 .red-nobel {
 	color:red;
 	font-size:30px;
+	font-family:serif;
 }
 
 
 
 .red-c {
+	font-family:serif;
     font-size:36px;
     color:red;
 }
