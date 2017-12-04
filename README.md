@@ -3,4 +3,4 @@ Dobochet, Frank e Henderson.
 
 tratto da una pagina vera, un pezzo di giornale
 
-https://journalpro.netlify.com/
+https://crio-microscopio.netlify.com
