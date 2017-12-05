@@ -31,12 +31,15 @@ h1 {
 
 .labor-img {
 	background-image: url(http://www.mitomorrow.it/wp-content/uploads/2017/10/aboratorio.jpg);
-
+	background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 	opacity:0.65;
 }
 
 .caption-text {
-	
+	margin:auto;
+	border-color:grey;
 	padding:18px;
 	font-size: 18px;
     font-weight: 200;
@@ -60,7 +63,7 @@ img {
 	}
 	
 .circle {
-	background-color:#ccc5cd;
+	background-color:ccc5cd;
 	border-radius:44%;
 	margin:auto;
 }
